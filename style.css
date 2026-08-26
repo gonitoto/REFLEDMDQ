@@ -1,0 +1,22 @@
+# REFLED — Sitio web
+
+## Archivos
+- `index.html` — estructura y contenido.
+- `style.css` — diseño responsive.
+- `script.js` — menú, animaciones y formulario de WhatsApp.
+- `assets/` — logo y fotos proporcionadas.
+
+## Configurar WhatsApp
+Abrí `script.js` y reemplazá:
+
+const WHATSAPP_NUMBER = "549XXXXXXXXXX";
+
+por el número real de REFLED, sin `+`, espacios ni guiones.
+
+Ejemplo:
+const WHATSAPP_NUMBER = "5492231234567";
+
+Después abrí `index.html` en el navegador para probar la web.
+
+## Publicación
+La carpeta completa puede subirse a cualquier hosting estático. No necesita servidor para funcionar, salvo que más adelante quieras agregar un sistema de administración o catálogo dinámico.
