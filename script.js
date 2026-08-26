@@ -5,7 +5,7 @@
 // en las imágenes enviadas. Si querés cambiarlo,
 // reemplazalo por el número de WhatsApp en formato
 // internacional, sin +, espacios ni guiones.
-const WHATSAPP_NUMBER = "5492236011486";
+const WHATSAPP_NUMBER = "5492235630264";
 
 const header = document.querySelector(".header");
 const menuToggle = document.querySelector(".menu-toggle");
